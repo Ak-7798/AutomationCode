@@ -9,7 +9,7 @@ public class StreamPractice {
 
 		System.out.println("Merge conflict from master");
 
-
+		System.out.println("new line for Merge conflict from master");
 		//Stream.of("Kishor","Don","Abhishek","Atul").filter(s->s.startsWith("A")).forEach(s->System.out.println(s));
 	}
 
